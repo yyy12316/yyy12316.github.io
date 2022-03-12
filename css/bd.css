@@ -2,7 +2,7 @@ body {
     background-image: url("../image/bd.jpeg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;margin: 0;padding: 0;
+    background-size:cover;margin: 0;padding: 0;
 }html{height: 100%;}
 #tou{
     position: absolute;
