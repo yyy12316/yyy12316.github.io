@@ -20,9 +20,12 @@ body {
     left: 40px;
 }
 #tou a{
-    color: #ffffff;
     font-size: 150%;
     position: relative;
     top: 20px;
     right: 50px;
+    text-decoration:none;
 }
+#tou a:link{color:#EB7790;}
+
+#tou a:hover{color:#ffffff;font-size:24px}
